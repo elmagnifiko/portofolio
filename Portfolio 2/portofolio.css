@@ -1,0 +1,70 @@
+.Download:hover ,.Get:hover{
+    background-color:#FE984E !important ;
+}
+.Download:active,.Get:hover{
+    background-color:#E35F00 !important ;
+}
+.btn-lg:hover {
+    background-color: #C5E9DA !important;
+}
+.btn-lg:active {
+    background-color: #28855D !important;
+}
+
+@media screen and (max-width:1440px){
+    .img-responsive{
+        width: 125% !important;
+    }
+    .bi-arrow-down-circle {
+        margin-bottom: 80px !important;
+    }
+}
+
+@media screen and (max-width:375px){
+    body {
+        width: 375px ;
+    }
+    #help {
+        width: 270px !important;
+        font-size: 16px !important;
+    }
+    .card {
+     width: 300px !important;
+        margin: auto !important;
+        border: none;
+    }
+    .btn {
+        font-size: 10px !important;
+    }
+    .Get {
+        margin-left: 8rem !important ;
+        font-size: 20px !important;
+        margin-bottom: -40px !important;
+    }
+    .Icons {
+        margin-bottom: -600px !important;
+        margin-top: -400px !important;
+    }
+    .Accueil {
+        margin-bottom: -100px !important;
+    }
+    .img-responsive {
+       width: 300px !important; 
+       margin-left: 60px !important;
+       margin-top: -400px !important;
+       margin-bottom: -150px !important;
+    }
+    .Works{
+        margin-top: -100px !important;
+    }
+    .Contact h2 {
+        font-size: 50px !important;
+    }
+    .Contact h3{
+        font-size: 30px !important;
+        width: 200px !important;
+    }
+    #html{
+        margin-top: 5px !important;
+    }
+}
